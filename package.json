@@ -1,0 +1,24 @@
+{
+  "name": "blogtopia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laughing-nerd/blogtopia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laughing-nerd/blogtopia/issues"
+  },
+  "homepage": "https://github.com/laughing-nerd/blogtopia#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mime-types": "^2.1.35"
+  }
+}
